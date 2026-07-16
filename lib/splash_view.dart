@@ -1,7 +1,7 @@
+// import 'package:example/Core/Services/local_storage.dart';
 // import 'package:flutter/material.dart';
 // import 'package:gap/gap.dart';
 // import 'package:go_router/go_router.dart';
-// import 'package:insight_news/Core/Services/local_storage.dart';
 
 // class SplashView extends StatefulWidget {
 //   const SplashView({super.key});
